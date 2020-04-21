@@ -6,7 +6,7 @@
 How to run:
 Download the script in
 Extract it into a folder
-Inside that folder, click with right button and click "open termianl here" (it may vary depending on the system)
+Inside that folder, click with right button and click "open terminal here" (it may vary depending on the system)
 
 Run the script itself by typing `python3 bot.py` then type a sentence
 
